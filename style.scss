@@ -1,0 +1,8 @@
+$color: #f00;
+$border: 2px solid $color; 
+$bold: bold;
+section{
+    color: $color;
+    font-weight: $bold;
+    border: $border;
+}
